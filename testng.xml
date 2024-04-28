@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EKSAQ Assignment Suite">
+  <test name="Login Tests">
+      <classes>
+      <class name="logintests.Checkoutproduct"/>
+      </classes>
+  </test> <!-- Test -->    
+   <!-- Test -->
+</suite> <!-- Suite -->
